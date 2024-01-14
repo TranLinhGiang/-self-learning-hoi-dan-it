@@ -1,7 +1,7 @@
 function Hello(){
     return(
         <>
-        Hello world with react Tran Linh Giang hih
+        Hello world with react Tran Linh Giang hihhihhihi
         </>
     )
 }
